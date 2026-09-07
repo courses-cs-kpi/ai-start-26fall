@@ -9,7 +9,7 @@ title: ШІ 2026
   : [[HML](https://ykochura.github.io/ai-lab/math/linear_algebra.html#/)][[.ipynb](https://colab.research.google.com/github/YKochura/ai-lab/blob/main/math/linear_algebra.ipynb)]
 : **Огляд**{: .label .label-red}**NumPy**
   : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)][.ipynb](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
-: **ПР #1**{: .label .label-purple} **Знайомство з Jupyter Notebook**
+<!-- : **ПР #1**{: .label .label-purple} **Знайомство з Jupyter Notebook**
   : [[Деталі](https://drive.google.com/file/d/1iU3yG8rD7Rw8UEBCr6HoA3fF07ioFo0g/view?usp=sharing)]
     : **Дедлайн**:  22 вересня
 
@@ -26,5 +26,5 @@ title: ШІ 2026
 27 жов
 : **ПР #4**{: .label .label-purple} **Нейронні мережі**
   : [[Деталі](https://drive.google.com/file/d/1jP1e9z3o4t4tyTfUHdELLNz6MBGYlpe0/view?usp=sharing)]
-      : **Дедлайн**:  17 лист
+      : **Дедлайн**:  17 лист -->
   
