@@ -11,7 +11,7 @@ title: ШІ 2026
   : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)][[.ipynb](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
 
 16 вер
- : **ПР #1**{: .label .label-purple} **Знайомство з Jupyter Notebook**
+: **ПР #1**{: .label .label-purple} **Знайомство з Jupyter Notebook**
   : [[Деталі](https://drive.google.com/file/d/1Y1UxOFc1tvWPnrRqW0hvGmoRtucx475K/view?usp=sharing)]
     : **Дедлайн**:  23 вересня
 
